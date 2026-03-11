@@ -31,12 +31,12 @@ A automação realiza as seguintes etapas:
 ## Estrutura do projeto
 
 automacao-cadastro-produtos-python
-│
-├── automacao.py
-├── produtos.csv
-├── requirements.txt
-├── README.md
-└── .gitignore
+
+- `automacao.py`
+- `produtos.csv`
+- `requirements.txt`
+- `README.md`
+- ` .gitignore`
 
 ## Como executar o projeto
 

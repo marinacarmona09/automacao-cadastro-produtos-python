@@ -54,5 +54,5 @@ python automacao.py
 
 ## Observações
 
-- As coordenadas utilizadas pelo PyAutoGUI podem variar dependendo da resolução da tela e do ambiente de execução.
+- As coordenadas utilizadas pelo PyAutoGUI podem variar dependendo da resolução da tela. 
 - O login presente no código é ilustrativo.

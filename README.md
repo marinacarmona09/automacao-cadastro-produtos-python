@@ -42,7 +42,7 @@ automacao-cadastro-produtos-python
 
 1. Copie este repositório
 
-git clone https://github.com/marinacarmona09/automacao-cadastro-produtos-python.git
+https://github.com/marinacarmona09/automacao-cadastro-produtos-python.git
 
 2. Instale as dependências
 

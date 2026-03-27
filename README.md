@@ -40,7 +40,7 @@ automacao-cadastro-produtos-python
 
 ## Como executar o projeto
 
-1. Clone este repositório
+1. Copie este repositório
 
 git clone https://github.com/marinacarmona09/automacao-cadastro-produtos-python.git
 
